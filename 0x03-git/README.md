@@ -1,1 +1,1 @@
-My first readme was awesome
+This day has been awesome
